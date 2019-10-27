@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">filebrowser</string>
+    <string name="title_activity_file_browser">FileBrowserActivity</string>
+</resources>
